@@ -1,1 +1,5 @@
 .DS_Store
+
+# Saídas geradas pelo curtas/ferramentas/gerar.py
+curtas/exemplos/saida/
+curtas/modelos/tmp*.html

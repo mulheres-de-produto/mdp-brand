@@ -1,0 +1,253 @@
+[
+  {
+    "modelo": "feed-1-palestrante",
+    "largura": 1080,
+    "altura": 1350,
+    "campos": [
+      "cidade_maiusculas",
+      "data",
+      "foto_palestrante_1",
+      "horario",
+      "local",
+      "nome_palestrante_1",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "story-1-palestrante",
+    "largura": 1080,
+    "altura": 1920,
+    "campos": [
+      "cidade_maiusculas",
+      "data",
+      "foto_palestrante_1",
+      "horario",
+      "local",
+      "nome_palestrante_1",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "capa-evento-1-palestrante",
+    "largura": 1080,
+    "altura": 1080,
+    "campos": [
+      "cidade_maiusculas",
+      "foto_palestrante_1",
+      "nome_palestrante_1",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "feed-2-palestrantes",
+    "largura": 1080,
+    "altura": 1350,
+    "campos": [
+      "cidade_maiusculas",
+      "data",
+      "foto_host",
+      "foto_palestrante_1",
+      "foto_palestrante_2",
+      "horario",
+      "local",
+      "nome_host",
+      "nome_palestrante_1",
+      "nome_palestrante_2",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "story-2-palestrantes",
+    "largura": 1080,
+    "altura": 1920,
+    "campos": [
+      "cidade_maiusculas",
+      "data",
+      "foto_host",
+      "foto_palestrante_1",
+      "foto_palestrante_2",
+      "horario",
+      "local",
+      "nome_host",
+      "nome_palestrante_1",
+      "nome_palestrante_2",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "capa-evento-2-palestrantes",
+    "largura": 1080,
+    "altura": 1080,
+    "campos": [
+      "cidade_maiusculas",
+      "foto_host",
+      "foto_palestrante_1",
+      "foto_palestrante_2",
+      "nome_host",
+      "nome_palestrante_1",
+      "nome_palestrante_2",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "feed-3-palestrantes",
+    "largura": 1080,
+    "altura": 1350,
+    "campos": [
+      "cidade_maiusculas",
+      "data",
+      "foto_host",
+      "foto_palestrante_1",
+      "foto_palestrante_2",
+      "foto_palestrante_3",
+      "horario",
+      "local",
+      "nome_host",
+      "nome_palestrante_1",
+      "nome_palestrante_2",
+      "nome_palestrante_3",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "story-3-palestrantes",
+    "largura": 1080,
+    "altura": 1920,
+    "campos": [
+      "cidade_maiusculas",
+      "data",
+      "foto_host",
+      "foto_palestrante_1",
+      "foto_palestrante_2",
+      "foto_palestrante_3",
+      "horario",
+      "local",
+      "nome_host",
+      "nome_palestrante_1",
+      "nome_palestrante_2",
+      "nome_palestrante_3",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "capa-evento-3-palestrantes",
+    "largura": 1080,
+    "altura": 1080,
+    "campos": [
+      "cidade_maiusculas",
+      "foto_host",
+      "foto_palestrante_1",
+      "foto_palestrante_2",
+      "foto_palestrante_3",
+      "nome_host",
+      "nome_palestrante_1",
+      "nome_palestrante_2",
+      "nome_palestrante_3",
+      "titulo"
+    ]
+  },
+  {
+    "modelo": "slide-abertura",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "cidade_maiusculas"
+    ]
+  },
+  {
+    "modelo": "slide-palestrante",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "bio",
+      "cargo",
+      "cidade",
+      "foto_palestrante",
+      "nome_palestrante"
+    ]
+  },
+  {
+    "modelo": "midia-kit-01-capa",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "foto_evento_1",
+      "foto_evento_2",
+      "foto_evento_3",
+      "foto_evento_4"
+    ]
+  },
+  {
+    "modelo": "midia-kit-02-o-que-e",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "foto_evento_3"
+    ]
+  },
+  {
+    "modelo": "midia-kit-03-por-que-levar",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": []
+  },
+  {
+    "modelo": "midia-kit-04-como-funciona",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "foto_evento_4",
+      "foto_evento_6"
+    ]
+  },
+  {
+    "modelo": "midia-kit-05-descricao-da-experiencia",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "foto_evento_3",
+      "foto_evento_4",
+      "foto_evento_5"
+    ]
+  },
+  {
+    "modelo": "midia-kit-06-a-dinamica",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": []
+  },
+  {
+    "modelo": "midia-kit-07-o-que-esta-incluso",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": []
+  },
+  {
+    "modelo": "midia-kit-08-investimento",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "valor",
+      "valor_por_extenso"
+    ]
+  },
+  {
+    "modelo": "midia-kit-09-depoimentos",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": []
+  },
+  {
+    "modelo": "midia-kit-10-vamos-juntas",
+    "largura": 1920,
+    "altura": 1080,
+    "campos": [
+      "contato_cargo",
+      "contato_email",
+      "contato_nome",
+      "foto_evento_1",
+      "foto_evento_2",
+      "foto_evento_4"
+    ]
+  }
+]

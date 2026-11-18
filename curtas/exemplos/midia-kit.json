@@ -1,0 +1,54 @@
+{
+  "_leia": "Mídia kit Curtas para Empresas. Gera 10 PNGs e um PDF.",
+  "saida": "saida/midia-kit",
+  "pdf": "MDP_Curtas_Midia_Kit_Curtas_para_Empresas",
+  "campos": {
+    "valor": "R$ 7.000",
+    "valor_por_extenso": "sete mil reais",
+    "contato_nome": "Erika Oliveira",
+    "contato_cargo": "Líder de Iniciativa",
+    "contato_email": "erika.oliveira@mulheresdeproduto.com"
+  },
+  "pecas": [
+    {
+      "modelo": "midia-kit-01-capa",
+      "arquivo": "midia-kit-01-capa"
+    },
+    {
+      "modelo": "midia-kit-02-o-que-e",
+      "arquivo": "midia-kit-02-o-que-e"
+    },
+    {
+      "modelo": "midia-kit-03-por-que-levar",
+      "arquivo": "midia-kit-03-por-que-levar"
+    },
+    {
+      "modelo": "midia-kit-04-como-funciona",
+      "arquivo": "midia-kit-04-como-funciona"
+    },
+    {
+      "modelo": "midia-kit-05-descricao-da-experiencia",
+      "arquivo": "midia-kit-05-descricao-da-experiencia"
+    },
+    {
+      "modelo": "midia-kit-06-a-dinamica",
+      "arquivo": "midia-kit-06-a-dinamica"
+    },
+    {
+      "modelo": "midia-kit-07-o-que-esta-incluso",
+      "arquivo": "midia-kit-07-o-que-esta-incluso"
+    },
+    {
+      "modelo": "midia-kit-08-investimento",
+      "arquivo": "midia-kit-08-investimento"
+    },
+    {
+      "modelo": "midia-kit-09-depoimentos",
+      "arquivo": "midia-kit-09-depoimentos"
+    },
+    {
+      "modelo": "midia-kit-10-vamos-juntas",
+      "arquivo": "midia-kit-10-vamos-juntas"
+    }
+  ]
+}
