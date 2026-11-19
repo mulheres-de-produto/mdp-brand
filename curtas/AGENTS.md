@@ -70,6 +70,33 @@ Os HTML em `modelos/` são a fonte da verdade do layout. **Não edite os modelos
 - Local muito longo: use o nome do lugar e, se precisar, o bairro ("Stone · Av. Rebouças 2880").
 - Mais de 3 palestrantes: não existe modelo. Fale com a diretoria antes de criar um.
 
+## Modelos no Canva (para a equipe editar sem código)
+
+Os mesmos modelos aprovados existem no Canva, na pasta **CURTAS > Modelos MDP Curtas** (https://www.canva.com/folder/FAHbZztWvqw). Use quando a pessoa vai montar a arte direto no Canva.
+
+| Peça | Design no Canva |
+|---|---|
+| Feed 1 palestrante | https://www.canva.com/design/DAHbZCTytlI/edit |
+| Feed 2 palestrantes | https://www.canva.com/design/DAHbZOicHSg/edit |
+| Feed 3 palestrantes | https://www.canva.com/design/DAHbRukDrhY/edit |
+| Story 1 palestrante | https://www.canva.com/design/DAHbZDTR9CE/edit |
+| Story 2 palestrantes | https://www.canva.com/design/DAHbZPu-WcY/edit |
+| Story 3 palestrantes | https://www.canva.com/design/DAHbZDA3sYQ/edit |
+| Capa de evento 1 palestrante | https://www.canva.com/design/DAHbZM-ENKs/edit |
+| Capa de evento 2 palestrantes | https://www.canva.com/design/DAHbZCdboS8/edit |
+| Capa de evento 3 palestrantes | https://www.canva.com/design/DAHbZAkOJME/edit |
+| Slide de abertura | https://www.canva.com/design/DAHbZLojd4Y/edit |
+| Slide de palestrante | https://www.canva.com/design/DAHbZMTQVS8/edit |
+
+Como usar:
+1. Faça uma cópia do modelo (Arquivo > Fazer uma cópia). Nunca edite o modelo original.
+2. Troque os textos de exemplo ("Título do papo...", "Dia de mês", "19h", "Nome do local · Endereço", "CURTAS · CIDADE", "Nome Sobrenome", "Host · Nome").
+3. Arraste a foto real em cima de cada blob cinza. A foto entra recortada no blob.
+4. Não mova nem recolora blobs e contornos. Não troque a fonte.
+5. Confira as regras deste arquivo antes de publicar.
+
+Os campos dos modelos têm rótulos de preenchimento automático (`titulo`, `data`, `horario`, `local`, `cidade`, `foto_palestrante_1`, `foto_palestrante_2`, `foto_palestrante_3`, `foto_host`, `nome_palestrante`, `cargo`, `foto_palestrante`), para quem usar automação do Canva.
+
 ## Quando usar cada modelo
 
 | Situação | Modelos |
