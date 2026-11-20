@@ -87,6 +87,9 @@ Os mesmos modelos aprovados existem no Canva, na pasta **CURTAS > Modelos MDP Cu
 | Capa de evento 3 palestrantes | https://www.canva.com/design/DAHbZAkOJME/edit |
 | Slide de abertura | https://www.canva.com/design/DAHbZLojd4Y/edit |
 | Slide de palestrante | https://www.canva.com/design/DAHbZMTQVS8/edit |
+| Mídia kit Curtas para Empresas (10 slides) | https://www.canva.com/design/DAHbeA5aGbo/edit |
+
+O mídia kit é um molde. Textos, preço, depoimentos, contato e fotos são de exemplo e devem ser revisados pela equipe antes de enviar a uma empresa. Ele usa Montserrat. Os demais modelos ainda usam DM Sans.
 
 Como usar:
 1. Faça uma cópia do modelo (Arquivo > Fazer uma cópia). Nunca edite o modelo original.
