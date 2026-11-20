@@ -1,0 +1,28 @@
+{
+  "_leia": "Exemplo com 2 palestrantes e a host do dia.",
+  "saida": "saida/curtas-sp-2-palestrantes",
+  "campos": {
+    "cidade": "São Paulo",
+    "data": "29 de setembro",
+    "horario": "19h",
+    "local": "Centro Empresarial Itaú",
+    "titulo": "IA não decide por você,\nela te ajuda a fazer\ndiscovery melhor",
+    "nome_palestrante_1": "Nome Sobrenome",
+    "foto_palestrante_1": "../assets/fotos-exemplo/foto-exemplo-5.jpg",
+    "nome_palestrante_2": "Nome Sobrenome",
+    "foto_palestrante_2": "../assets/fotos-exemplo/foto-exemplo-1.jpg",
+    "nome_host": "Nome",
+    "foto_host": "../assets/fotos-exemplo/foto-exemplo-4.jpg"
+  },
+  "pecas": [
+    {
+      "modelo": "feed-2-palestrantes"
+    },
+    {
+      "modelo": "story-2-palestrantes"
+    },
+    {
+      "modelo": "capa-evento-2-palestrantes"
+    }
+  ]
+}

@@ -11,6 +11,7 @@ marca/                    Marca MdP (nova)
   svg/                    Vetores — use sempre que possível
   png/                    Raster 1x, @2x, @3x
   pdf/                    Composição com fotos + formas orgânicas
+curtas/                   MDP Curtas: modelos de divulgação, slides e mídia kit
 festival-2026/            Festival Mulheres de Produto 2026
   logo/                   Selo do festival (fundo claro e fundo escuro)
   artes-finais/           Arquivos de impressão enviados à gráfica
@@ -29,6 +30,12 @@ legacy/2018/              Marca anterior (círculo roxo) — não usar
 | Branca | `marca/svg/mdp-marca-branca.svg` | Fundos escuros, fotos e cores da paleta |
 
 O símbolo é o **M amarelo sobre a forma orgânica rosa**, acompanhado do nome “mulheres de produto” em rosa.
+
+## MDP Curtas
+
+Modelos aprovados para divulgar o meetup presencial MDP Curtas (feed, story, capa do evento e slides, com 1, 2 ou 3 palestrantes) e o mídia kit Curtas para Empresas. Veja `curtas/README.md`. Agentes de IA devem seguir `curtas/AGENTS.md`.
+
+![MDP Curtas](curtas/previews/feed-2-palestrantes.png)
 
 ## Festival Mulheres de Produto 2026
 

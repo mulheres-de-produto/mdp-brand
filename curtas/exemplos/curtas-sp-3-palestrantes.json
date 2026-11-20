@@ -1,0 +1,30 @@
+{
+  "_leia": "Exemplo de painel com 3 palestrantes e a host do dia.",
+  "saida": "saida/curtas-sp-3-palestrantes",
+  "campos": {
+    "cidade": "São Paulo",
+    "data": "22 de julho",
+    "horario": "19h",
+    "local": "Stone · Av. Rebouças 2880",
+    "titulo": "IA na prática: de produtos\nconversacionais a agentes,\no que já está funcionando",
+    "nome_palestrante_1": "Nome Sobrenome",
+    "foto_palestrante_1": "../assets/fotos-exemplo/foto-exemplo-2.jpg",
+    "nome_palestrante_2": "Nome Sobrenome",
+    "foto_palestrante_2": "../assets/fotos-exemplo/foto-exemplo-5.jpg",
+    "nome_palestrante_3": "Nome Sobrenome",
+    "foto_palestrante_3": "../assets/fotos-exemplo/foto-exemplo-6.jpg",
+    "nome_host": "Nome",
+    "foto_host": "../assets/fotos-exemplo/foto-exemplo-4.jpg"
+  },
+  "pecas": [
+    {
+      "modelo": "feed-3-palestrantes"
+    },
+    {
+      "modelo": "story-3-palestrantes"
+    },
+    {
+      "modelo": "capa-evento-3-palestrantes"
+    }
+  ]
+}
